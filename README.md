@@ -1,7 +1,5 @@
 # MIDI-Monitor-Written-in-Visual-Basic
 
-This repository presents a MIDI monitor written in VB, using Visual Basic Express 2010.
-
 Being curious what MIDI data is exactly outputted by my MIDI keyboard, I decided to write this little tool.
 
 ![image](https://user-images.githubusercontent.com/27091013/216694671-dc82a82a-d4ea-416b-97fe-526d875926f8.png)
