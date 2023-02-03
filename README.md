@@ -1,6 +1,6 @@
 # MIDI-Monitor-Written-in-Visual-Basic
 
-This repositiory presents a MIDI monitor written in VB, using Visual Basic Express 2010.
+This repository presents a MIDI monitor written in VB, using Visual Basic Express 2010.
 
 Being curious what MIDI data is exactly outputted by my MIDI keyboard, I decided to write this little tool.
 
@@ -155,7 +155,9 @@ Below, I highlighted the parts that took me a while to figure out:
 End Function
 ```
 
-This is the callback function which returns the incoming MIDI messages. dwParam1 contains the 4 bytes MIDI data that I am looking for. From MSDN:
+This is the callback function which returns the incoming MIDI messages. dwParam1 contains the 4 bytes MIDI data that I am looking for. 
+
+From MSDN:
 
 ![image](https://user-images.githubusercontent.com/27091013/216692410-6fccdd4c-c30e-4cde-8fef-20ce1b71bcf0.png)
 
