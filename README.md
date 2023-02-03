@@ -199,4 +199,4 @@ But Application.Exit() definitely ends the program without complaints or leaving
 
 If anyone knows a solution for the midiInClose issue, please feel free to comment!
 
-In the ZIP file, you will also find a ready-to-run EXE file (in \bin\Release). It runs on Win XP and Windows 7 32 & 64 bit.
+In the ZIP file, you will also find a ready-to-run EXE file (in \bin\Release). It runs on Windows XP/7/10 32 & 64 bit.
