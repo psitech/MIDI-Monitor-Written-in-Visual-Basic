@@ -143,7 +143,8 @@ The source code is rather self-explanatory. You might want to check out the MIDI
 Below, I highlighted the parts that took me a while to figure out:
 
 
-```Function MidiInProc(ByVal hMidiIn As Integer, ByVal wMsg As UInteger, _
+```
+Function MidiInProc(ByVal hMidiIn As Integer, ByVal wMsg As UInteger, _
          ByVal dwInstance As Integer, ByVal dwParam1 As Integer, _
          ByVal dwParam2 As Integer) As Integer
     If MonitorActive = True Then
